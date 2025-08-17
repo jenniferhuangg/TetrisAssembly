@@ -1,6 +1,4 @@
 #####################################################################
-# CSCB58 Summer 2025 Assembly Final Project - UTSC
-# Jennifer Huang, 1011278751, huan4519, jjennifer.huang@mail.utoronto.ca
 # Bitmap Display Configuration:
 # - Unit width in pixels: 16 (update this as needed) 
 # - Unit height in pixels: 16 (update this as needed)
@@ -8,12 +6,6 @@
 # - Display height in pixels: 256 (update this as needed)
 # - Base Address for Display: 0x10008000 ($gp)
 #
-# Which milestones have been reached in this submission?
-# (See the assignment handout for descriptions of the milestones)
-# - Milestone 1/2/3/4/5 (choose the one the applies)
-#
-# Which approved features have been implemented?
-# (See the assignment handout for the list of features)
 # Easy Features:
 # 1. Implement gravity, so that each second that passes will automatically move the tetromino down one row
 # 2. Assuming that gravity has been implemented, have the speed of gravity increase gradually over time, or after the player completes a certain number of rows
@@ -26,15 +18,6 @@
 # another block/border bottom, it stops. Block cannot go out of bounds. Goal is to place blocks in a way where a line of the grid is filled.
 # To fill a line, move and orient the block. Each line gives one point to the score, but for each line completed, the game goes faster! Good luck!
 #
-# Link to video demonstration for final submission:
-# https://play.library.utoronto.ca/watch/1d97b686a65d410c73ef5e90bb97f9d2
-# - (insert YouTube / MyMedia / other URL here). Make sure we can view it!
-#
-# Are you OK with us sharing the video with people outside course staff?
-# - yes / no
-# no
-# Any additional information that the TA needs to know:
-# - (write here, if any)
 #
 #####################################################################
 
